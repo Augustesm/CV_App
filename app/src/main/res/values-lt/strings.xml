@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">CV App</string>
+        <string name="portfolio1">Šuo vardu Uoga</string>
+        <string name="portfolio2">Šuo vardu Gija</string>
+        <string name="portfolio3">Jonvabalio logotipas</string>
+        <string name="position">Studentė</string>
+        <string name="title">Augustė Smolskaitė</string>
+        <string name="introduction">Ketvirto kurso studentė</string>
+        <string name="aboutMe">Apie mane</string>
+        <string name="hello">Sveiki atvykę!</string>
+        <string name="button1">Profilis</string>
+        <string name="button2">Portfolio</string>
+        <string name="contact">Įveskite kontaktus, trumpą info</string>
+        <string name="button3">Siųsti laišką</string>
+        <string name="about_me">Apie mane</string>
+        <string name="number">+37062670990</string>
+        <string name="email">smols2001@gmail.com</string>
+        <string name="group">Grupė: MKDf-20/4</string>
+        <string name="aboutME">APIE MANE</string>
+        <string name="text_aboutme">Per visą savo profesinę kelionę ugdžiau įvairias asmenines savybes, kurios apibrėžia mano charakterį ir prisideda prie mano sėkmės. Labai komunikabili, lengvai bendrauju ir bendradarbiauju su kolegomis. Kaip natūralus komandos žaidėjas, aš visada noriu prisidėti prie kolektyvinių tikslų.</string>
+        <string name="language">Pakeist kalbą</string>
+        <string name="text_add">Pridėti įrašą</string>
+        <string name="text_add2">Pridėti įrašą</string>
+        <string name="text_add3">Pridėti įrašai:</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CV App</string>
+    <string name="portfolio1">Dog named Berry</string>
+    <string name="portfolio2">Dog named Gija</string>
+    <string name="portfolio3">Logo of firefly</string>
+    <string name="position">Student</string>
+    <string name="title">Auguste Smolskaite</string>
+    <string name="introduction">Last year student</string>
+    <string name="aboutMe">About me</string>
+    <string name="hello">Welcome!</string>
+    <string name="button1">Profile</string>
+    <string name="button2">Portfolio</string>
+    <string name="contact">Write your contacts, short info</string>
+    <string name="button3">Send email</string>
+    <string name="about_me">About me</string>
+    <string name="number">+37062670990</string>
+    <string name="email">smols2001@gmail.com</string>
+    <string name="group">Group: MKDf-20/4</string>
+    <string name="aboutME">ABOUT ME</string>
+    <string name="text_aboutme">Throughout my professional journey, I have developed various personal qualities that define my character and contribute to my success. I am very communicative, I easily communicate and cooperate with colleagues. As a natural team player, I always want to contribute to collective goals.</string>
+    <string name="language">Switch language</string>
+    <string name="text_add">Additional Entry</string>
+    <string name="text_add2">Add entry</string>
+    <string name="text_add3">Additional Entries:</string>
+
+
+</resources>
