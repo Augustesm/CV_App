@@ -1,6 +1,6 @@
 # CV App
 
- This comprehensive CV app, designed to showcase my skills, experiences, and portfolio in one convenient platform.
+🚀 This comprehensive CV app, designed to showcase my skills, experiences, and portfolio in one convenient platform.
 
 ## Key Features
 
